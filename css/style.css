@@ -500,3 +500,7 @@ input[type="submit"] {
 	margin-top: -6%;
     margin-left: 71%;
 }
+.header img{
+	width: 103%;
+	margin-left: -9px;
+}
