@@ -502,5 +502,8 @@ input[type="submit"] {
 }
 .header img{
 	width: 103%;
-	margin-left: -9px;
+	
+	margin-top: -8px;
+
+    margin-left: -8px;
 }
